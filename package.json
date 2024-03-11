@@ -62,7 +62,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/MartianH/node-amqp-connection-manager"
+        "url": "https://github.com/HabimanaConsulting/rabbit-fire"
     },
     "lint-staged": {
         "**/*.ts": [
@@ -78,7 +78,7 @@
     "author": "Martial Habimana <mhabimana@hconsulting.tech> (https://github.com/HabimanaConsulting)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/MartianH/node-amqp-connection-manager/issues"
+        "url": "https://github.com/HabimanaConsulting/rabbit-fire/issues"
     },
-    "homepage": "https://github.com/MartianH/node-amqp-connection-manager"
+    "homepage": "https://github.com/HabimanaConsulting/rabbit-fire"
 }
