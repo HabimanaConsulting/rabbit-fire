@@ -1,5 +1,4 @@
 version: '3.2'
-name: 'rabbit-fire-test'
 services:
   rabbitmq:
     image: rabbitmq:3-management-alpine
